@@ -5,12 +5,19 @@ layout: default
 <aside class="sidebar">
   <header>
     <div class="about">
+      <br>
       <div class="cover-author-image">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
-      <a href = "https://aashutoshtrivedi.github.io">Aashutosh Trivedi</a>
-      <div class="author-name">{{site.author}}</div>
+      <div class="author-name">
+      <br>
+      <a href="{{site.baseurl}}/">{{site.author}}</a>
+      <br>
+      -
+      <br>
+      <a href = "https://aashutoshtrivedi.github.io">Aashutosh Trivedi</a></div>
       <p>{{site.about-author}}</p>
+
     </div>
   </header> <!-- End Header -->
   <footer>
@@ -45,7 +52,7 @@ layout: default
       </ul>
     </section> <!-- End Section Contact -->
     <div class="copyright">
-      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+      <p>{{site.time | date: '%Y'}} &copy; Aashutosh Trivedi</p>
     </div>
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
