@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/100-Days-of-ML/conference-on-javascript/</loc>
+<loc>http://localhost:4000/100-Days-of-DataScience/conference-on-javascript/</loc>
 <lastmod>2017-09-10T02:30:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/100-Days-of-ML/</loc>
+<loc>http://localhost:4000/100-Days-of-DataScience/welcome-to-jekyll/</loc>
+<lastmod>2020-11-27T16:02:20+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/100-Days-of-DataScience/</loc>
 </url>
 </urlset>
