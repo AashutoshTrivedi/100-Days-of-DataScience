@@ -1,0 +1,10 @@
+---
+layout: post
+title: Covid-19 Analytics
+description: Day 1 # Add post description (optional)
+img: covid.png  # Add image post (optional)
+tags: [Data Science] # add tag
+---
+
+find the notebook [here](https://github.com/AashutoshTrivedi/100-Days-of-DataScience/blob/master/Resources/Covid-19/Covid-19-Analysis.ipynb)
+# This article is under progress.
