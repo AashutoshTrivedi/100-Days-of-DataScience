@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weather data Visualization
-description: Day 2 # Add post description (optional)
+description: Article 2 # Add post description (optional)
 img: matplotlib.png # Add image post (optional)
 tags: [Data Science] # add tag
 ---

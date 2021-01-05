@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Covid-19 Analytics
-description: Day 1 # Add post description (optional)
+description: Article 1 # Add post description (optional)
 img: covid.png  # Add image post (optional)
 tags: [Data Science] # add tag
 ---

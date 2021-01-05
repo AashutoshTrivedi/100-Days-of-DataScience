@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Approaching a Data Science problem
-description: Day 0 # Add post description (optional)
+description: Article 0 # Add post description (optional)
 img: Data-Science.png # Add image post (optional)
 tags: [tools, Data Science] # add tag
 ---
@@ -55,7 +55,7 @@ Once we have done all the previous steps, we might think that most work is done.
 
 ## Differentiating data roles
 
-Now we have covered the difference between data analysts and business analyst. But to brief about it 
+Now we have covered the difference between data analysts and business analyst. But to brief about it
 
 
 
